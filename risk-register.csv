@@ -1,0 +1,2 @@
+Risk_ID,Category,Risk_Statement,Cause,Potential_Impact,Likelihood_1_5,Impact_1_5,Inherent_Score,Existing_Controls,Owner,Treatment,Due_Date,Residual_Likelihood,Residual_Impact,Residual_Score,Status
+R-001,Operational,Illustrative critical equipment failure,Insufficient preventive maintenance,Service interruption,3,4,12,Inspection schedule,Operations Manager,Improve preventive maintenance,2026-03-31,2,3,6,Open

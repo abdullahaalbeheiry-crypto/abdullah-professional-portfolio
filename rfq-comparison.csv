@@ -1,0 +1,2 @@
+Item,Specification,Quantity,Unit,Vendor_A_Unit_Price,Vendor_B_Unit_Price,Vendor_C_Unit_Price,Lead_Time_A_Days,Lead_Time_B_Days,Lead_Time_C_Days,Notes
+Sample item,Define measurable specification,10,Each,100,105,98,7,5,10,Illustrative prices only

@@ -1,0 +1,2 @@
+Asset_ID,Asset_Name,Location,Criticality,Install_Date,Warranty_Expiry,Responsible_Team,Status
+AST-001,Sample HVAC Unit,Building A,High,2024-01-01,2027-01-01,Maintenance,Operational
